@@ -5,7 +5,7 @@
 
 I work across product engineering and systems delivery: clarify the workflow, shape the API and data boundaries, implement the critical path, and account for failures and handover.
 
-[Website](https://www.sherazdevsolutions.com/) · [LinkedIn](https://www.linkedin.com/in/sheraz-zafar/) · [Discuss a project](https://www.sherazdevsolutions.com/#contact)
+[Website](https://www.sherazdevsolutions.com/) · [LinkedIn](https://www.linkedin.com/in/sheraz-zafar-3a166321b/) · [Discuss a project](https://www.sherazdevsolutions.com/#contact)
 
 ## Experience
 

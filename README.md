@@ -33,3 +33,9 @@ These are technologies used across projects, not a claim of equal depth in every
 I prefer clearly scoped work, explicit state and failure behavior, maintainable boundaries, and useful handover. A good starting point is a paid technical discovery, a defined feature, or a bounded production investigation.
 
 For project discussions, use the [contact form](https://www.sherazdevsolutions.com/#contact).
+
+## Public engineering references
+
+- [Cited document retrieval](https://github.com/sheraz-zafar/cited-document-retrieval-reference) — a runnable reference for ranking passages, returning citations and abstaining on synthetic documents.
+- [Portfolio source and payment-state tests](https://github.com/sheraz2812/sheraz-zafar-site) — website maintained through my portfolio account.
+- [Engineering engagements](https://www.sherazdevsolutions.com/hire/) — scopes, deliverables and supporting work.
